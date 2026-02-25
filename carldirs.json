@@ -1,17 +1,1 @@
-{
-  "carler": "carl",
-  "totalIds": 2,
-  "carlerDir": {
-    "HW-D46E32E84CD1A5BE303A6AF6": {
-      "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
-      "firstSeen": "2026-02-25T23:32:24.598Z",
-      "lastSeen": "2026-02-25T23:35:26.656Z",
-      "sessions": 2,
-      "batches": [
-        {
-          "ids": "(2),2026-02-25T23:35:26.656Z,(222836433,223056233)"
-        }
-      ]
-    }
-  }
-}
+
